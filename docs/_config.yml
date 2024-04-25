@@ -31,6 +31,9 @@ github_username:  jaws82
 
 # Build settings
 theme: minima
+minima:
+  skin: dark
+
 plugins:
   - jekyll-feed
 
